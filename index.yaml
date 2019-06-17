@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  aws-eks-kubernetes-dashboard:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-06-16T18:10:30.994635-07:00"
+    description: A Helm chart for Kubernetes
+    digest: aff06d0206f3a8bc503430800fad04ab6ac5711555cb82851d90d310497daaca
+    name: aws-eks-kubernetes-dashboard
+    urls:
+    - https://magicmemories.github.io/aws-eks-kubernetes-dashboard/aws-eks-kubernetes-dashboard-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-06-16T18:10:30.992041-07:00"
